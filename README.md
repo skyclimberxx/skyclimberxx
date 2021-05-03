@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyclimberxx
 - 👀 I’m interested in Network and Security
-- 🌱 I’m currently learning Netowrking
+- 🌱 I’m currently learning Networking
 - 💞️ I’m looking to collaborate on Cisco
 - 📫 IG: @sky.climberxx
 
